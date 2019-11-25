@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/chris350/burger#readme",
   "dependencies": {
+    "epress": "0.0.1-security",
     "express": "^4.17.1"
   }
 }
