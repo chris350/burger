@@ -22,7 +22,7 @@ Check live application deployed to [Heroku](www.heroku.com) at [https://eatdabur
 ### Installation
 To run the application locally, first clone this repository with the following command.
 
-`git@github.com:pshegde123/burger.git`
+`git@github.com:chris350/burger.git`
 Next, install the application dependencies.
 
 >`cd burger`
